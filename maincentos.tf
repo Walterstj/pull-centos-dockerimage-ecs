@@ -52,3 +52,4 @@ module "ecs-fargate" {
 # Privacy
 # Security
 # Status
+# https://medium.com/@shifflettko/pull-with-docker-f55cf2d322bb
